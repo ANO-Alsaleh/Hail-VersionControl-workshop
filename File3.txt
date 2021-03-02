@@ -1,1 +1,3 @@
 This is file 3
+
+This file is edited in Branch-2
